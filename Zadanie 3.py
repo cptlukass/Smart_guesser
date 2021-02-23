@@ -1,5 +1,5 @@
 def smart_computer():
-    """Let the user pick a number between 0 and 1000,
+    """Lets the user pick a number between 0 and 1000,
     user gives clues and application tries to guess in 10 moves.
 
     :return: guess attempts by a program, ends with 'Victory!' exclamation.
